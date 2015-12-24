@@ -1,0 +1,15 @@
+
+
+
+Implementing Test Scenario - Send email and receive email - part 1
+04:11
+1. Click sign in
+2. Click compose
+3. Fill in recipient
+4. Fill in Subject
+5. Fill in email Body
+6.Click send
+7. Click Inbox
+8. Verify email and email body is correct
+9. Sign out
+
